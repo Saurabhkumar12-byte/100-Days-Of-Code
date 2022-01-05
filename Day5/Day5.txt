@@ -1,0 +1,2 @@
+#completed video on array and arraylist.
+#submitted 8 solutions on leetcode.

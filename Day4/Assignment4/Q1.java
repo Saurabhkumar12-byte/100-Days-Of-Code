@@ -1,5 +1,5 @@
 package Assignment4;
-// 1. [Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.](https://www.java67.com/2019/05/how-to-find-largest-and-smallest-of-three-numbers-in-java.html)
+// 1. Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.
 import java.util.Scanner;
 public class Q1 {
     public static int largest(int a ,int b,int c) {
