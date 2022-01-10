@@ -1,0 +1,5 @@
+Completed
+•Linear search video
+•Binary search video
+
+Submitted 4 solution on @leetcode
