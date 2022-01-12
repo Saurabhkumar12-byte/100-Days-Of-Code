@@ -1,0 +1,3 @@
+Attempted 6 questions on leetcode
+
+watching binary search questions video
