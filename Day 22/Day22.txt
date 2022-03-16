@@ -1,8 +1,5 @@
 Day22 of #100DaysOfCode.
 
-•  Submitted 7 questions on 
-@LeetCode
-
-.
+Completed string
 
 #DSAwithKunal
