@@ -1,0 +1,9 @@
+Day36 of #100DaysOfCode.
+
+✅Completed recursion pattern questions.
+✅Completed Bubble Sort using recursion.
+✅Completed Selection Sort using recursion.
+✅Completed Merge Sort.
+✅Completed Quick Sort.
+
+#DSAWithKunal
