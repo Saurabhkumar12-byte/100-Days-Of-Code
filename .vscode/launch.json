@@ -1,0 +1,322 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch subSequenceReturn",
+            "request": "launch",
+            "mainClass": "subSequenceReturn",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch subSequence",
+            "request": "launch",
+            "mainClass": "subSequence",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch skipAString2",
+            "request": "launch",
+            "mainClass": "skipAString2",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Armstrong",
+            "request": "launch",
+            "mainClass": "Armstrong",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1",
+            "request": "launch",
+            "mainClass": "Assignment3.Q1",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q2",
+            "request": "launch",
+            "mainClass": "Assignment3.Q2",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q21",
+            "request": "launch",
+            "mainClass": "Assignment3.Q21",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q3",
+            "request": "launch",
+            "mainClass": "Assignment3.Q3",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q4",
+            "request": "launch",
+            "mainClass": "Assignment3.Q4",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q5",
+            "request": "launch",
+            "mainClass": "Assignment3.Q5",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch CyclicSort",
+            "request": "launch",
+            "mainClass": "CyclicSort",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern1",
+            "request": "launch",
+            "mainClass": "Pattern1",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern10",
+            "request": "launch",
+            "mainClass": "Pattern10",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern11",
+            "request": "launch",
+            "mainClass": "Pattern11",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern12",
+            "request": "launch",
+            "mainClass": "Pattern12",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern13",
+            "request": "launch",
+            "mainClass": "Pattern13",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern14",
+            "request": "launch",
+            "mainClass": "Pattern14",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern15",
+            "request": "launch",
+            "mainClass": "Pattern15",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern2",
+            "request": "launch",
+            "mainClass": "Pattern2",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern3",
+            "request": "launch",
+            "mainClass": "Pattern3",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern4",
+            "request": "launch",
+            "mainClass": "Pattern4",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern5",
+            "request": "launch",
+            "mainClass": "Pattern5",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern6",
+            "request": "launch",
+            "mainClass": "Pattern6",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern7",
+            "request": "launch",
+            "mainClass": "Pattern7",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern8",
+            "request": "launch",
+            "mainClass": "Pattern8",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern9",
+            "request": "launch",
+            "mainClass": "Pattern9",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch bubbleSortRecursion",
+            "request": "launch",
+            "mainClass": "bubbleSortRecursion",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorsOptimised",
+            "request": "launch",
+            "mainClass": "factorsOptimised",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertionSort",
+            "request": "launch",
+            "mainClass": "insertionSort",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch linearSearchRecursion",
+            "request": "launch",
+            "mainClass": "linearSearchRecursion",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch mergeSort",
+            "request": "launch",
+            "mainClass": "mergeSort",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch mergeSortInPlace",
+            "request": "launch",
+            "mainClass": "mergeSortInPlace",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch pivotRecursion",
+            "request": "launch",
+            "mainClass": "pivotRecursion",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch quickSort",
+            "request": "launch",
+            "mainClass": "quickSort",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursiveBinarySearch",
+            "request": "launch",
+            "mainClass": "recursiveBinarySearch",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseRecurrsive",
+            "request": "launch",
+            "mainClass": "reverseRecurrsive",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch selectionSortRecursion",
+            "request": "launch",
+            "mainClass": "selectionSortRecursion",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch skipACharacter",
+            "request": "launch",
+            "mainClass": "skipACharacter",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch skipAString",
+            "request": "launch",
+            "mainClass": "skipAString",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch sortedArrayRecursion",
+            "request": "launch",
+            "mainClass": "sortedArrayRecursion",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch starPattern1",
+            "request": "launch",
+            "mainClass": "starPattern1",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumOfDigitRecursive",
+            "request": "launch",
+            "mainClass": "sumOfDigitRecursive",
+            "projectName": "100 Days Of Code_221658e4"
+        }
+    ]
+}

@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "Day 36",
         "Day 35",
         "Day 34",
         "Day 33",
@@ -9,6 +10,6 @@
         "Day 20",
         "Day 18",
         "Day 02/Assignment3",
-        "Day 36"
+        "Day 37"
     ]
 }
