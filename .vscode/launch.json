@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch noOfAnswer",
+            "request": "launch",
+            "mainClass": "noOfAnswer",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch permutationRet",
+            "request": "launch",
+            "mainClass": "permutationRet",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch permutation",
+            "request": "launch",
+            "mainClass": "permutation",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
             "name": "Launch subSequenceReturn",
             "request": "launch",
             "mainClass": "subSequenceReturn",
