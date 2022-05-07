@@ -1,0 +1,7 @@
+Day40 of #100DaysOfCode.
+
+✅Completed N-Queens,
+✅Completed N-Knights,
+✅Completed Sudoku Solver lecture.
+
+#DSAwithKunal
