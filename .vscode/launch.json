@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch minMax",
+            "request": "launch",
+            "mainClass": "minMax",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumTriangleArray",
+            "request": "launch",
+            "mainClass": "sumTriangleArray",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
             "name": "Launch NQueens",
             "request": "launch",
             "mainClass": "NQueens",
