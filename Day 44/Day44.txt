@@ -1,0 +1,7 @@
+Day44 of #100DaysOfCode.
+
+✅Completed 
+
+OOP 2 | Packages, Static, Singleton Class, In-built Methods.
+
+#DSAwithKunal

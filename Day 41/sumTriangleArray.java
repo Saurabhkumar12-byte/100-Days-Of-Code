@@ -1,9 +1,5 @@
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
-/**
- * sumTriangleArray
- */
 public class sumTriangleArray {
 
     public static void main(String[] args) {
