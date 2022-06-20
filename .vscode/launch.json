@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch countSort",
+            "request": "launch",
+            "mainClass": "countSort",
+            "projectName": "100 Days Of Code_221658e4"
+        },
+        {
+            "type": "java",
             "name": "Launch Child",
             "request": "launch",
             "mainClass": "Child",
